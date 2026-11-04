@@ -4,7 +4,7 @@ An Excel workbook for running a small library. It records books, members, and ea
 
 Everything is done with Excel formulas, data validation and conditional formatting. There are **no macros**, so the file opens safely in any version of Excel.
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ## Features
 
@@ -66,7 +66,6 @@ Some of the main formulas, as they appear in row 5:
 
 **Excel features used:** VLOOKUP, INDEX, MATCH, IF, IFERROR, COUNTIF, COUNTIFS, COUNTA, SUM, SUMIF, MAX, LARGE, TODAY, EDATE and TEXT, plus data validation, conditional formatting, charts, freeze panes and filters.
 
-For a full explanation of every sheet and formula, worked examples, practice exercises and viva questions, see the **[Learning Guide (PDF)](docs/Library_Management_Learning_Guide.pdf)**.
 
 ## Project structure
 
